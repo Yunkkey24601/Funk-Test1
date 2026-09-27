@@ -2,6 +2,7 @@
   "name": "funk-test1",
   "version": "1.0.0",
   "scripts": {
+    "build": "node -e \"process.exit(0)\"",
     "start": "node server.js"
   }
 }
